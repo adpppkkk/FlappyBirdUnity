@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2020-03-02T09:07:28.087+08:00
+  initializedAtString: 2020-03-02T09:07:28.076+08:00
+  localBranches: []
+  remoteBranches: []
+  remotes:
+  - name: origin
+    url: https://github.com/adpppkkk/CollisionSnake-master.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: github
+    url: https://github.com/adpppkkk/CollisionSnake-master.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: snake
+    url: https://github.com/adpppkkk/CollisionGame.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: KotS
+    url: https://github.com/adpppkkk/KotlinSnake.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: 213
+    url: https://github.com/adpppkkk/Snake-master.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: KS
+    url: https://github.com/adpppkkk/KotlinCollision.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: git
+    url: https://github.com/adpppkkk/Five.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: Media
+    url: https://github.com/adpppkkk/MediaListJerry.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: github1
+    url: https://github.com/adpppkkk/Renju-master.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: github5
+    url: https://github.com/adpppkkk/Renju111.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys: []
+    values: []
+  remoteConfigBranches:
+    keys: []
+    subKeys: []
+    subKeyValues: []
+  configRemotes:
+    keys:
+    - origin
+    - github
+    - snake
+    - KotS
+    - 213
+    - KS
+    - git
+    - Media
+    - github1
+    - github5
+    values:
+    - name: origin
+      url: https://github.com/adpppkkk/CollisionSnake-master.git
+    - name: github
+      url: https://github.com/adpppkkk/CollisionSnake-master.git
+    - name: snake
+      url: https://github.com/adpppkkk/CollisionGame.git
+    - name: KotS
+      url: https://github.com/adpppkkk/KotlinSnake.git
+    - name: 213
+      url: https://github.com/adpppkkk/Snake-master.git
+    - name: KS
+      url: https://github.com/adpppkkk/KotlinCollision.git
+    - name: git
+      url: https://github.com/adpppkkk/Five.git
+    - name: Media
+      url: https://github.com/adpppkkk/MediaListJerry.git
+    - name: github1
+      url: https://github.com/adpppkkk/Renju-master.git
+    - name: github5
+      url: https://github.com/adpppkkk/Renju111.git
